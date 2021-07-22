@@ -21,7 +21,7 @@ First, let's make sure that your installation is working as expected. Therefore,
 
 By default, the script will execute some commands like retrieving the node status. Here's an overview of the node status:
 
-[sandbox node status](https://i.ibb.co/tPF4PPQ/node-status.png)
+![sandbox node status](https://i.ibb.co/tPF4PPQ/node-status.png)
 
 As you can see, the node contains only one committed block because this is a new Algorand network. Also, note that the `Genesis ID` points to an identifier called `sandnet-v1`. In the next step, you'll explore this genesis file.
 
@@ -54,7 +54,7 @@ ls
 
 You'll get the following result.
 
-[sandbox container files](https://i.ibb.co/gM4fzdf/sandbox.png)
+![sandbox container files](https://i.ibb.co/gM4fzdf/sandbox.png)
 
 Let's take a look at the genesis file.
 
